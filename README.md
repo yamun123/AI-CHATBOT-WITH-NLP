@@ -12,3 +12,5 @@ mentor:neela santhosh
 
 output
 
+![Image](https://github.com/user-attachments/assets/5c0a9820-d57d-4381-9497-fce88ae22dc8)
+
